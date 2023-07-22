@@ -1,0 +1,31 @@
+.cardup {
+    padding: 0px;
+    top: 7vh;
+}
+
+.cardin {
+    padding: 0px;
+    top: 25vh;
+    bottom: 25vh;
+}
+
+.alert {
+    top: 8vh;
+}
+
+.box{
+    display: inline;
+}
+
+.alertdiv {
+    height: 200px;
+}
+
+.alertin {
+    top: 28vh;
+}
+
+.carddisp {
+    padding: 0px;
+    top: 35vh;
+}

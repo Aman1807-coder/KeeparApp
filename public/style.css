@@ -1,0 +1,27 @@
+.bdy {
+    margin-left: 5rem;
+    margin-right: 4rem;
+}
+
+.form-floating {
+    width: 50rem;
+    top: 1rem;
+}
+
+.cont {
+    top: 2rem;
+}
+
+.butn {
+    margin-top: 3rem;
+}
+
+.note {
+    padding: 0rem;
+    margin-top: 2rem;
+}
+
+.del {
+    margin-bottom: 0.1rem;
+    border: 0px;
+}
